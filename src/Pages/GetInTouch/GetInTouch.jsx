@@ -5,7 +5,7 @@ import CustomBtn from "../../components/CustomBtn";
 import CustomInput from "../../components/CustomInput";
 import Footer from "../../components/Footer/Footer";
 import Navbar from "../../components/Navbar/Navbar";
-import HubsportServiceRequestForm from "../../components/HubsportServiceRequestForm";
+import HubsportGetInTouch from "../../components/HubsportGetInTouch";
 
 const GetInTouch = () => {
   const [formData, setFormData] = useState({
@@ -49,7 +49,7 @@ const GetInTouch = () => {
               </h1>
 
               <section className='bg-secondary py-5 px-5 lg:px-36 lg:py-20 md:px-10'>
-                <HubsportServiceRequestForm />
+                <HubsportGetInTouch />
               </section>
 
               {/* <form className='mt-5' onSubmit={handleSubmit}>
