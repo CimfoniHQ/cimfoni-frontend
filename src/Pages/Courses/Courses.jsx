@@ -105,16 +105,16 @@ const Courses = () => {
                   
                 </p>
                 <p className='text-primaryColor md:text-sm font-medium'>
-                  Stream 1: 22nd - 6th Nov
+                  Stream 1: Oct 22nd - 6th Nov
                 </p>
                 <p className='text-primaryColor md:text-sm font-medium'>
-                  Stream 2: 7th - 21st Nov
+                  Stream 2: Nov 7th - 21st Nov
                 </p>
                 <p className='text-primaryColor md:text-sm font-medium'>
-                  Stream 3: 22nd - 6th Dec
+                  Stream 3: Nov 22nd - 6th Dec
                 </p>
                 <p className='text-primaryColor md:text-sm font-medium'>
-                  Stream 4: 7th - 21st Dec
+                  Stream 4: Dec 7th - 21st Dec
                 </p>
               </div>
 
@@ -177,16 +177,16 @@ const Courses = () => {
                   
                 </p>
                 <p className='text-primaryColor md:text-sm font-medium'>
-                  Stream 1: 22nd - 6th Nov
+                  Stream 1: Oct 22nd - 6th Nov
                 </p>
                 <p className='text-primaryColor md:text-sm font-medium'>
-                  Stream 2: 7th - 21st Nov
+                  Stream 2: Nov 7th - 21st Nov
                 </p>
                 <p className='text-primaryColor md:text-sm font-medium'>
-                  Stream 3: 22nd - 6th Dec
+                  Stream 3: Nov 22nd - 6th Dec
                 </p>
                 <p className='text-primaryColor md:text-sm font-medium'>
-                  Stream 4: 7th - 21st Dec
+                  Stream 4: Dec 7th - 21st Dec
                 </p>
               </div>
 
@@ -273,16 +273,16 @@ const Courses = () => {
                   
                 </p>
                 <p className='text-primaryColor md:text-sm font-medium'>
-                  Stream 1: 22nd - 6th Nov
+                  Stream 1: Oct 22nd - 6th Nov
                 </p>
                 <p className='text-primaryColor md:text-sm font-medium'>
-                  Stream 2: 7th - 21st Nov
+                  Stream 2: Nov 7th - 21st Nov
                 </p>
                 <p className='text-primaryColor md:text-sm font-medium'>
-                  Stream 3: 22nd - 6th Dec
+                  Stream 3: Nov 22nd - 6th Dec
                 </p>
                 <p className='text-primaryColor md:text-sm font-medium'>
-                  Stream 4: 7th - 21st Dec
+                  Stream 4: Dec 7th - 21st Dec
                 </p>
               </div>
 
