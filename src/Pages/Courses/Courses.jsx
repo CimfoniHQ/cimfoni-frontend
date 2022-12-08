@@ -105,7 +105,7 @@ const Courses = () => {
                   
                 </p>
                 <p className='text-primaryColor md:text-sm font-medium'>
-                  
+                Stream 1: Nov 7th - 21st Nov
                 </p>
                 <p className='text-primaryColor md:text-sm font-medium'>
                   Stream 2: Nov 7th - 21st Nov
@@ -177,7 +177,7 @@ const Courses = () => {
                   
                 </p>
                 <p className='text-primaryColor md:text-sm font-medium'>
-                  
+                Stream 1: Nov 7th - 21st Nov
                 </p>
                 <p className='text-primaryColor md:text-sm font-medium'>
                   Stream 2: Nov 7th - 21st Nov
@@ -273,7 +273,7 @@ const Courses = () => {
                   
                 </p>
                 <p className='text-primaryColor md:text-sm font-medium'>
-                  
+                Stream 1: Nov 7th - 21st Nov
                 </p>
                 <p className='text-primaryColor md:text-sm font-medium'>
                   Stream 2: Nov 7th - 21st Nov
