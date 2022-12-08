@@ -97,7 +97,7 @@ const Courses = () => {
                 maximum of 10 persons per class
               </p>
 
-              <div>
+              {/* <div>
                 <p className='text-center text-primaryColor md:text-sm font-semibold md:text-left lg:text-left'>
                   Start Date
                 </p>
@@ -116,7 +116,7 @@ const Courses = () => {
                 <p className='text-primaryColor md:text-sm font-medium'>
                   Stream 4: Dec 7th - 21st Dec
                 </p>
-              </div>
+              </div> */}
 
               <div id='languages' className='flex space-x-3 md:py-1'>
                 {badges.map((badge, index) => (
@@ -169,7 +169,7 @@ const Courses = () => {
                 maximum of 10 persons per class
               </p>
 
-              <div>
+              {/* <div>
                 <p className='text-center text-primaryColor md:text-sm font-semibold md:text-left lg:text-left'>
                   Start Date
                 </p>
@@ -188,7 +188,7 @@ const Courses = () => {
                 <p className='text-primaryColor md:text-sm font-medium'>
                   Stream 4: Dec 7th - 21st Dec
                 </p>
-              </div>
+              </div> */}
 
               <div id='languages' className='flex space-x-3 md:py-1'>
                 {badges3.map((badge, index) => (
@@ -265,7 +265,7 @@ const Courses = () => {
                 maximum of 10 persons per class
               </p>
 
-              <div>
+              {/* <div>
                 <p className='text-center text-primaryColor md:text-sm font-semibold md:text-left lg:text-left'>
                   Start Date
                 </p>
@@ -284,7 +284,7 @@ const Courses = () => {
                 <p className='text-primaryColor md:text-sm font-medium'>
                   Stream 4: Dec 7th - 21st Dec
                 </p>
-              </div>
+              </div> */}
 
               <div id='languages' className='flex space-x-3 md:py-1'>
                 {badges2.map((badge, index) => (
