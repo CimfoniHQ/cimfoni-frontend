@@ -146,7 +146,7 @@ const Courses = () => {
                   handleCoursePayment(paymentLinks.intro_to_adobe_suite)
                 }
               >
-                Enroll Now
+                Indicate Interest
               </CustomBtn>
             </div>
           </div>
@@ -230,7 +230,7 @@ const Courses = () => {
                   handleCoursePayment(paymentLinks.intro_to_business_broadcast)
                 }
               >
-                Enroll Now
+                Indicate Interest
               </CustomBtn>
             </div>
 
@@ -314,7 +314,7 @@ const Courses = () => {
                   handleCoursePayment(paymentLinks.broadcast_production)
                 }
               >
-                Enroll Now
+                Indicate Interest
               </CustomBtn>
             </div>
           </div>
